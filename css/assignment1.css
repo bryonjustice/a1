@@ -1,0 +1,103 @@
+a {
+	color: white;
+	text-decoration: none;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	height: 100%;
+	margin: 0px;
+}
+
+div {
+	display: block;
+	margin: 0px;
+}
+
+footer {
+	background-color: black;
+	min-height: 150px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+img {
+	float: left;
+	padding: 0px 20px 20px 0px;
+	width: 30%;
+}
+
+h1 {
+	border: 3px solid white;
+	color: white;
+	font-size: 36px;
+	font-weight: 700;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	text-align: center;
+	/* center the box horizontally and vertically */
+    left: 50%;
+    margin-right: -50%;	
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%) 		
+}
+
+.intro {
+	min-height: 300px;	
+	padding: 50px 80px 50px 80px;
+	position: relative;	
+	text-align: center;
+	text-align: justify;
+}
+
+.poet {
+	font-family: 'Lora', serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 200%;
+	text-decoration: underline;
+}
+
+.banner {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;		
+	clear: both;
+	margin: 0px;
+	min-height: 500px;
+	position: relative;
+	vertical-align: middle;	
+}
+
+.poem {
+	color: #ff8000;
+	font-family: 'Lora', serif;
+	font-size: 36px;
+}
+
+.quote {
+	background-color: #dddddd;
+	padding: 50px 80px 50px 80px;
+	text-align: center;
+}
+
+.student{
+	font-size: 24px;
+	font-weight: 700;
+	margin: 30px 80px 0px 80px;
+}
+
+.verse {
+	font-family: 'Lora', serif;
+}
+
+#belgium {
+	background-image: url("../images/brussels.jpg");
+}
+
+#louisiana {
+	background-image: url("../images/louisiana.jpg");
+}
