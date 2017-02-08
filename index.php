@@ -25,13 +25,22 @@
 	-->
 	<div class="intro">
 		<h3>About Me</h3>
-		<p><img src="images/bryon.jpg" alt="Bryon Justice, 2017">Nascetur per nec posuere turpis, lectus nec libero turpis nunc at, sed posuere mollis ullamcorper libero ante lectus,
-		blandit pellentesque a, magna turpis est sapien duis blandit dignissim. Viverra interdum mi magna mi, morbi sociis.
-		Condimentum dui ipsum consequat morbi, curabitur aliquam pede, nullam vitae eu placerat eget et vehicula. Varius quisque
-		non molestie dolor, nunc nisl dapibus vestibulum at, sodales tincidunt mauris ullamcorper, dapibus pulvinar, in in neque
-		risus odio. Accumsan fringilla vulputate at quibusdam sociis eleifend, aenean maecenas vulputate, non id vehicula lorem
-		mattis, ratione interdum sociis ornare. Suscipit proin magna cras vel, non sit platea sit, maecenas ante augue etiam maecenas,
-		porta porttitor placerat leo.</p>
+		<p><img src="images/bryon.jpg" alt="Bryon Justice, 2017">
+    Bryon Justice.  In no particular order.  Husband, father, IT Director, hopeful savant, backyard stargazer,
+    meditation practitioner, musicophile (a.k.a. Apple Music subscriber), aspiring creative and “dad bod” devotee.</p>
+    <p>Professionally, I lead a technology organization responsible for testing a suite of human capital management
+      business solutions servicing large scale corporations with their payroll services, talent management, benefits
+      administration, time & attendance, health care reform and human resource management needs.  I sleep better when
+      software works.  I feel better when I experience the opportunity to support, motivate and encourage hardworking
+      people towards their own life goals and great ideas.</p>
+    <p>I hold a Bachelor’s degree from LSU.  Geaux Tigers (pronounced “Go Tigers”)!   I am currently pursuing my
+      ALM in the field of Information Management Systems from Harvard University.</p>
+    <p>Outside of my work life and studies I enjoy time with my wife and teenaged children.  I have a broad range of interests
+      and experiences.  I have lived in both North America and Europe and traveled throughout the Americas, Europe,
+      Asia and Africa.  Among my many tales I can claim to have danced with the whirling dervishes in the Sudan,
+      travelled by train behind the iron curtain in Cold War Berlin, led a band of camels across the Sahara,
+      declined the U.S. ambassador’s invitation for tea with the Archbishop of Canterbury, hosted a Sunday morning
+      jazz radio show and interviewed members of various rock bands for music publications.</p>
 	</div>
 
 	<div class="banner" id="louisiana">
